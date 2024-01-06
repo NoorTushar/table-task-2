@@ -35,7 +35,10 @@ body {
 }
 
 table {
-  border-collapse: collapse;
+  /* border-collapse: collapse; */
+}
+table {
+  border: 1px solid black;
 }
 th,
 td {
